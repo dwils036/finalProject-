@@ -1,8 +1,11 @@
-/*
- * FinalProject.c
+/*David Wilson (862134618) dwils036@ucr.edu
+ * Partner: none
+ * Lab Section: 023
+ * Assignment: Final Project
+ * Trivia Game Show
  *
- * Created: 3/5/2020 1:05:42 AM
- * Author : david
+ * I acknowledge all content contained herein, excluding template or example
+ * code, is my own original work.
  */ 
 
 #include <avr/io.h>
